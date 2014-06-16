@@ -1,3 +1,4 @@
+# encoding: UTF-8
 
 require 'addressable/uri'
 require 'digest/md5'
